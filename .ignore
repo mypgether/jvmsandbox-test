@@ -1,3 +1,5 @@
 .idea
-*.iml
+gether-jvm-sandbox.iml.iml
+gether-jvm-sandbox.ipr
+gether-jvm-sandbox.iws
 target/
